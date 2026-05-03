@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Mondev")(type "KiCad")(uri "${KIPRJMOD}/libraries/mondev.kicad_sym")(options "")(descr "Monero Devices symbols"))
+  (lib (name "Tildagon")(type "KiCad")(uri "${KIPRJMOD}/libraries/tildagon.kicad_sym")(options "")(descr "The EMF Camp Badge symbols"))
+)

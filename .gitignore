@@ -1,0 +1,10 @@
+build
+sdkconfig
+sdkconfig.old
+managed_components
+.cache
+.vscode/settings.json
+badge.code-workspace
+main/modules/lasertag/sync_string.h
+main/modules/lasertag/lasertag.h
+main/modules/lasertag/sync_string.c
