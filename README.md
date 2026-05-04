@@ -1,6 +1,6 @@
 # dcsgonefirm
 
-hey guys so this is the firmware for our badge thingy. 
+hey guys so this is my vers of the firmware for our badge thingy. 
 
 ### random notes
 im still working on this so some stuff might be broken or marked with 'Dev'. if u see something wrong just fix it lol
